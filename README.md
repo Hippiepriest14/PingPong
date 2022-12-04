@@ -1,2 +1,2 @@
-# PingPong
+Classic Pong game!
  
